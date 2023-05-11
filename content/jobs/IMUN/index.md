@@ -1,5 +1,5 @@
 ---
-date: '2021-06-11'
+date: '1991-04-12'
 title: 'Campus Ambassador Intern'
 company: 'International MUN (IMUN)'
 location: remote

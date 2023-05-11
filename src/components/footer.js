@@ -106,8 +106,8 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Designed &amp; Built by Brittany Chiang<br></br>
-            Revised by Yashita Namdeo
+            Designed &amp; Built by Yashita Namdeo<br></br>
+            Revised by Somboon Nontaganok
           </div>
 
           {githubInfo.stars && githubInfo.forks && (

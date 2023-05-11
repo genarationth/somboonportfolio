@@ -1,9 +1,9 @@
 ---
 date: '2020-07-01'
-title: 'Virtual Internship Experience'
-company: 'Forage'
-location: remote
-range: 'July 2020 - May 2021'
+title: 'R&D Manager'
+company: 'Thai plastic and chemical company limited'
+location: on-site
+range: 'January 1995 - December 2012'
 url: 'https://www.theforage.com/'
 ---
 
