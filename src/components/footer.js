@@ -102,13 +102,10 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/bchiang7/v4"
+          href="https://github.com/somboonnontaganok/somboon-portfolio.github.io"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>
-            Designed &amp; Built by Yashita Namdeo<br></br>
-            Revised by Somboon Nontaganok
-          </div>
+          <div>Revised by Somboon Nontaganok</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>

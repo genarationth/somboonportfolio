@@ -8,5 +8,3 @@ url: 'https://www.scgchemicals.com/en/home'
 ---
 
 - Problem solving of authorization database management, using asp.net and SQL server.
-<!-- - Build solutions for local businesses and the community.
-- Attained several technical workshops. -->

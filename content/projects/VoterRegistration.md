@@ -12,4 +12,4 @@ company: 'Suven'
 showInProjects: true
 ---
 
-Project 1 under MERN Stack Coding Internship
+Project under MERN Stack Coding Internship

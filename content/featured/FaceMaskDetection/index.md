@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Use Automatic testting by Robot Framework to test every software in start-up before launching to customers.
+Use Automatic testting by Robot Framework to test every software in start-up of Siam Cement Group before launching to customers.

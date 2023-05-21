@@ -7,8 +7,5 @@ range: 'January 1995 - December 2012'
 url: 'https://www.theforage.com/'
 ---
 
-- Project Manager of RD Management Program
-- RD Project Searching
-- JPMorgan Chase & Co. Software Engineering Virtual Experience [CERTIFICATE](https://insidesherpa.s3.amazonaws.com/completion-certificates/JP%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_nXPiDeZbPmvKvvjHA_completion_certificate.pdf)
-- KPMG - Data Analytics Consulting Virtual Internship [CERTIFICATE](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_nXPiDeZbPmvKvvjHA_completion_certificate.pdf)
-- Y Combinator Virtual Experience [CERTIFICATE](https://drive.google.com/file/d/1btrRl7BWopLhOWudEI1RTOSl7qsCl-yS/view)
+- Project Manager of RD Management Program by Opentext Live Link
+- RD Project Searching by Microsoft Access

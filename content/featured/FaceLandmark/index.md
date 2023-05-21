@@ -11,5 +11,3 @@ showInProjects: true
 ---
 
 Problem solving about Silo management project.
-
-Inspired by Nicholas Renotte's
